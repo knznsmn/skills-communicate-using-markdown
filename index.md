@@ -11,7 +11,7 @@ I like to picture myself as a penguin.
 
 ## 'Hello, World' in languages I like!
 
-```
+``` c
 #include <stdio.h>
 
 int main(void)
