@@ -22,3 +22,8 @@ int main(void)
 }
 ```
 
+## Learn These 
+- [x] HTML/CSS
+- [ ] SASS
+- [ ] JavaScript
+- [ ] C
